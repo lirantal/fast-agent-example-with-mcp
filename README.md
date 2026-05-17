@@ -21,3 +21,7 @@ cd state-transfer
 uv run agent_one.py
 ```
 
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
